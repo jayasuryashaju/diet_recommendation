@@ -1,1 +1,2 @@
 *.ipynb text eol=lf
+notebook/data/user_profiles_raw.csv filter=lfs diff=lfs merge=lfs -text
